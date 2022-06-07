@@ -1,0 +1,30 @@
+nav div{
+  display: flex;
+  background-color: chocolate;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+img {
+  width: 10%;
+}
+
+li img {
+  width: 40%;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 35px ;
+  line-height: 80px;
+}
+
+a {
+  text-decoration: none;
+  border: 1px solid;
+  padding: 15px;
+}
+
+
