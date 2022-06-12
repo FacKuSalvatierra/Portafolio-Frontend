@@ -1,0 +1,54 @@
+a {
+  text-decoration: none;
+}
+
+
+.img-top {
+  width: 100%;
+}
+
+.card-group{
+  color: black;
+}
+
+.card{
+  background-color: #566573 ;
+}
+
+
+.contenedor {
+  box-shadow: 0 10px 0 0 black;
+  margin-bottom: 100px;
+  padding-bottom: 55px;
+}
+
+.row {
+  font-size: 1.2rem;
+}
+
+.titulo {
+  text-align: center;
+  margin: auto;
+  padding: 55px 0;
+  font-size: 3.5rem;
+}
+
+.texto {
+  padding: 25px;
+}
+
+
+.boton{
+  display: flex;
+  margin: auto;
+  border: 1px solid blue;
+  border-radius: 5%;
+  padding: 15px;
+ }
+
+
+ .card-title {
+  text-align: center;
+  padding: 15px;
+  font-size: 2rem;
+ }
